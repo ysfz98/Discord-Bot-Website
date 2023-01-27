@@ -11,7 +11,7 @@ function MyApp({ Component, pageProps }) {
   )}`;
   const title = config.name;
   const router = useRouter();
-  const siteUrl = process.env.NEXT_PUBLIC_URL + router.asPath;
+  const siteUrl = process.env.https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fdiscord-icon&psig=AOvVaw2LR9wjibKGqHjxCw8WkweP&ust=1674933376878000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIip4Zm76PwCFQAAAAAdAAAAABAE + router.asPath;
   return (
     <div className="overflow-hidden">
       <Head>
